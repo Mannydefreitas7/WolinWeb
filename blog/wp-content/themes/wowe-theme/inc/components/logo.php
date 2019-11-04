@@ -1,0 +1,1 @@
+<a href="#" class="logo"><img src="<?php echo get_theme_mod('logo_url'); ?>"></a>

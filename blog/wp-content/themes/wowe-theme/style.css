@@ -1,0 +1,15 @@
+/*
+Theme Name: WoWe Template
+Theme URI: https://wolinweb.com
+Author: Manuel De Freitas
+Author URI: https://wolinweb.com
+Description: Profressional Website Template from WolinWeb
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wolinweb
+*/
+/*
+ * Globals
+ */
+ @import "./css/component.css";

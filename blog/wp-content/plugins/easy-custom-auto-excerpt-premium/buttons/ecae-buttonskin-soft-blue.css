@@ -1,0 +1,69 @@
+/* BUTTONS
+ ================================================== */
+.ecae-button.ecae-buttonskin-soft-blue {
+	padding-top: 10px;
+	padding-bottom: 13px;
+	font-size: 14px;
+}
+
+.ecae-button.ecae-buttonskin-soft-blue a.ecae-link {
+	background: #0092FF; /* Old browsers */
+	background: -moz-linear-gradient(top,  #0092FF 0%, #0069FF 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0092FF), color-stop(100%,#0069FF)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #0092FF 0%,#0069FF 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #0092FF 0%,#0069FF 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #0092FF 0%,#0069FF 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #0092FF 0%,#0069FF 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0092FF', endColorstr='#0069FF',GradientType=0 ); /* IE6-9 */
+
+	color: #fff;
+	font-size: inherit;
+	
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	
+	-webkit-box-shadow : 1px 1px 10px 0px rgba(50, 50, 50, 0.6);
+	-moz-box-shadow :    1px 1px 10px 0px rgba(50, 50, 50, 0.6);
+	box-shadow :         1px 1px 10px 0px rgba(50, 50, 50, 0.6);
+	
+	border: 1px solid #0069FF;
+
+	padding: 11px 14px;
+	outline: none;	
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	line-height: 1em;
+	font-weight: 500;
+	display: inline-block;
+	margin-right: 2px;
+	cursor: pointer;	
+	white-space: nowrap;	
+	background-position: 0px 0px;
+	transition: all 0.1s ease-in-out;
+	-webkit-transition: all 0.1s ease-in-out;
+	width: auto;
+	text-decoration: none;
+}
+
+.ecae-button.ecae-buttonskin-soft-blue a.ecae-link:hover {	
+	background: #28A4FF; /* Old browsers */
+	background: -moz-linear-gradient(top,  #28A4FF 0%, #0069FF 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#28A4FF), color-stop(100%,#0069FF)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #28A4FF 0%,#0069FF 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #28A4FF 0%,#0069FF 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #28A4FF 0%,#0069FF 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #28A4FF 0%,#0069FF 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28A4FF', endColorstr='#0069FF',GradientType=0 ); /* IE6-9 */
+}
+
+.ecae-button.ecae-buttonskin-soft-blue a.ecae-link span {	
+	
+}
+
+.ecae-button.ecae-buttonskin-soft-blue a.ecae-link:hover span {	
+
+}

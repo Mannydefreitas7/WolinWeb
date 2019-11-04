@@ -1,0 +1,25 @@
+.wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+body {font-family: 'Ubuntu', sans-serif;}
+h1 {font-size: 23px; font-weight: 600; color: #000;}
+.para {font-size: 14px; color: #878484; line-height: 18px;}
+.para1 {font-size: 14px; color: #000; line-height: 20px; font-weight: 300; margin-top: 10px;}
+.col-1 {
+    padding: 10px 25px;
+    position: relative;
+}
+.col-2 {
+    padding: 10px 25px;
+    background-color: #fff;
+    height: auto;
+    border-left: 4px #114f8a solid;
+}
+.img {
+    width: 200px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}

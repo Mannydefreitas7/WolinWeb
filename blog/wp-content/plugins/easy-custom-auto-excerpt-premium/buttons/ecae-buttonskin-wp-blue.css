@@ -1,0 +1,50 @@
+/* BUTTONS
+ ================================================== */
+.ecae-button.ecae-buttonskin-wp-blue {
+	padding-top: 10px;
+	padding-bottom: 13px;
+	font-size: 14px;
+}
+
+.ecae-button.ecae-buttonskin-wp-blue a.ecae-link {
+	display: inline-block;
+	text-decoration: none;
+	font-size: inherit;
+	line-height: 26px;
+	height: 28px;
+	margin: 0;
+	padding: 0 10px 1px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-border-radius: 3px;
+	-webkit-appearance: none;
+	border-radius: 3px;
+	white-space: nowrap;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+
+	background: #2ea2cc;
+	border-color: #0074a2;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+	box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+	color: #fff;
+	text-decoration: none;
+}
+
+.ecae-button.ecae-buttonskin-wp-blue a.ecae-link:hover {	
+	background: #1e8cbe;
+	border-color: #0074a2;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+	box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+	color: #fff;
+}
+
+.ecae-button.ecae-buttonskin-wp-blue a.ecae-link span {	
+	
+}
+
+.ecae-button.ecae-buttonskin-wp-blue a.ecae-link:hover span {	
+
+}

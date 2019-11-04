@@ -1,0 +1,22 @@
+<?php if ( ! defined("BASEPATH")) exit("No direct script access allowed");
+	$config["useragent"]        = "PHPMailer";      
+	$config["protocol"]         = "sendmail";
+	$config["mailpath"]         = "/usr/sbin/sendmail";
+	$config["smtp_host"]        = "smtp.1and1.com";
+	$config["smtp_user"]        = "manuel@wolinweb.com";
+	$config["smtp_pass"]        = "R9n566ae";
+	$config["smtp_port"]        = "";
+	$config["smtp_timeout"]     = "5";      
+	$config["smtp_crypto"]      = "ssl";    
+	$config["smtp_debug"]       = "0";      
+	$config["wordwrap"]         = true;
+	$config["wrapchars"]        = 76;
+	$config["mailtype"]         = "html";          
+	$config["charset"]          = "utf-8";
+	$config["validate"]         = true;
+	$config["priority"]         = 3;                
+	$config["crlf"]             = "\r\n";                     
+	$config["newline"]          = "\r\n";                    
+	$config["bcc_batch_mode"]   = false;
+	$config["bcc_batch_size"]   = 200;
+				

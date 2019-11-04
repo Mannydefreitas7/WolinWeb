@@ -1,0 +1,51 @@
+/* BUTTONS
+ ================================================== */
+.ecae-button.ecae-buttonskin-flatland-red {
+	padding-top: 10px;
+	padding-bottom: 13px;
+	font-size: 14px;
+}
+
+.ecae-button.ecae-buttonskin-flatland-red a.ecae-link {
+	color: rgb(255, 255, 255);
+	background-color: #FF3700;
+	font-size: inherit;
+
+	padding: 15px 20px;
+	outline: none;
+	border: 1px solid #FD3900;
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	letter-spacing: 2px;
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 1em;
+	display: inline-block;
+	margin-right: 2px;
+	cursor: pointer;
+	white-space: nowrap;
+	background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+	background-repeat: repeat-y;
+	background-size: 100% 250px;
+	background-position: 0px 0px;
+	transition: all 0.1s ease-in-out;
+	-webkit-transition: all 0.1s ease-in-out;
+	width: auto;
+
+	text-decoration: none;
+}
+
+.ecae-button.ecae-buttonskin-flatland-red a.ecae-link:hover {	
+	background-position: 0px -100px;
+}
+
+.ecae-button.ecae-buttonskin-flatland-red a.ecae-link span {	
+	
+}
+
+.ecae-button.ecae-buttonskin-flatland-red a.ecae-link:hover span {	
+
+}

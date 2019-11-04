@@ -1,0 +1,52 @@
+/* BUTTONS
+ ================================================== */
+.ecae-button.ecae-buttonskin-prosix-blue {
+	padding-top: 10px;
+	padding-bottom: 13px;
+	font-size: 14px;
+}
+
+.ecae-button.ecae-buttonskin-prosix-blue a.ecae-link {
+	color: rgb(255, 255, 255);
+	background-color: rgb(44, 126, 190);
+	font-size: inherit;
+
+	padding: 11px 14px;
+	border-radius: 2px;
+	outline: none;
+	border: none;
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	font-weight: 700;
+	line-height: 1em;
+	display: inline-block;
+	margin-right: 2px;
+	cursor: pointer;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.298039) 0px -2px 0px inset;
+	box-shadow: rgba(0, 0, 0, 0.298039) 0px -2px 0px inset;
+	white-space: nowrap;
+	background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+	background-repeat: repeat-y;
+	background-size: 100% 250px;
+	background-position: 0px 0px;
+	transition: all 0.1s ease-in-out;
+	-webkit-transition: all 0.1s ease-in-out;
+	width: auto;
+
+	text-decoration: none;
+}
+
+.ecae-button.ecae-buttonskin-prosix-blue a.ecae-link:hover {	
+	background-position: 0px -60px;
+}
+
+.ecae-button.ecae-buttonskin-prosix-blue a.ecae-link span {	
+	
+}
+
+.ecae-button.ecae-buttonskin-prosix-blue a.ecae-link:hover span {	
+
+}

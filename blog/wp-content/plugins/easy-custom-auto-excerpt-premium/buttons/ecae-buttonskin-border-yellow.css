@@ -1,0 +1,104 @@
+/* BUTTONS
+ ================================================== */
+.ecae-button.ecae-buttonskin-border-yellow {
+	padding-top: 10px;
+	padding-bottom: 13px;
+	font-size: 14px;
+}
+
+.ecae-button.ecae-buttonskin-border-yellow a.ecae-link {
+	background: #FFFFFF; /* Old browsers */
+	background: -moz-linear-gradient(top,  #FFFFFF 0%, #f3f3f3 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(100%,#f3f3f3)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #FFFFFF 0%,#f3f3f3 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #FFFFFF 0%,#f3f3f3 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #FFFFFF 0%,#f3f3f3 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #FFFFFF 0%,#f3f3f3 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#f3f3f3',GradientType=0 ); /* IE6-9 */
+
+	color: #666;
+	font-size: inherit;
+	
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	
+	-webkit-box-shadow : 1px 1px 5px 0px rgba(50, 50, 50, 0.4);
+	-moz-box-shadow :    1px 1px 5px 0px rgba(50, 50, 50, 0.4);
+	box-shadow :         0px -1px 1px 0px rgba(50, 50, 50, 0.5);
+	
+/* 	border: 1px solid #ddd; */
+
+	padding: 6px;
+	outline: none;	
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	line-height: 1em;
+	display: inline-block;
+	cursor: pointer;	
+	white-space: nowrap;	
+	background-position: 0px 0px;
+	transition: all 0.1s ease-in-out;
+	-webkit-transition: all 0.1s ease-in-out;
+	width: auto;
+	text-decoration: none;
+}
+
+.ecae-button.ecae-buttonskin-border-yellow a.ecae-link:hover {	
+	
+}
+
+.ecae-button.ecae-buttonskin-border-yellow a.ecae-link span {	
+	background: #FFCD02; /* Old browsers */
+	background: -moz-linear-gradient(top,  #FFCD02 0%, #FF9500 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFCD02), color-stop(100%,#FF9500)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #FFCD02 0%,#FF9500 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #FFCD02 0%,#FF9500 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #FFCD02 0%,#FF9500 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #FFCD02 0%,#FF9500 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFCD02', endColorstr='#FF9500',GradientType=0 ); /* IE6-9 */
+
+	color: #fff;
+	
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	
+	border: 1px solid #FF9500;
+
+	-webkit-text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+	-moz-text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+
+	padding: 6px 14px;
+	outline: none;	
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	font-weight: 500;
+	line-height: 1em;
+	display: inline-block;
+	cursor: pointer;	
+	white-space: nowrap;	
+	background-position: 0px 0px;
+	transition: all 0.1s ease-in-out;
+	-webkit-transition: all 0.1s ease-in-out;
+	width: auto;
+	text-decoration: none;
+}
+
+.ecae-button.ecae-buttonskin-border-yellow a.ecae-link:hover span {	
+	background: #FFD324; /* Old browsers */
+	background: -moz-linear-gradient(top,  #FFD324 0%, #FF9500 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFD324), color-stop(100%,#FF9500)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #FFD324 0%,#FF9500 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #FFD324 0%,#FF9500 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #FFD324 0%,#FF9500 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #FFD324 0%,#FF9500 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFD324', endColorstr='#FF9500',GradientType=0 ); /* IE6-9 */
+}

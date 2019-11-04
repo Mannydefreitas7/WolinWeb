@@ -1,0 +1,131 @@
+/*
+
+Theme Name: WolinWeb
+
+Theme URI: https://www.wolinweb.com/
+
+Description: WolinWeb Website Design Blog
+
+Author: WolinWeb
+
+Version: 1.0
+
+*/
+
+html { margin-top: 0 !important; }
+
+.entry-content h1, h2, h3, h4 { padding-left: 30px; margin-top: 10px;
+    margin-bottom: 10px; }
+
+
+.entry-content p {margin-bottom: 10px; padding: 0 30px 0; }
+
+.entry-content h3 { margin-top: 20px; margin-bottom: 10px; color: #cfb341;  }
+
+.entry-content ul, .entry-content ol { margin: 10px 30px; }
+
+.entry-content li {margin-bottom: 10px;}
+
+.entry-content pre { padding: 0 !important; margin: 0; overflow: inherit; background-color: #fff; border: none; }
+.entry-content pre img { border-radius: 10px 10px 0 0; }
+
+.entry-utility {  
+    list-style: none;
+    padding-left: 30px; 
+}
+
+img.alignright {margin: 0 0 20px 20px; }
+img.alignleft { margin: 0 20px 20px 0; }
+
+h2.entry-title a { font-size: 32px; font-weight: bold; line-height: 1.25; text-decoration: none;  }
+
+.ecae-button { padding-left: 30px !important; }
+.xoxo {
+
+	margin: 0;
+
+	list-style: none;
+
+}
+
+.xoxo li { margin: 20px 0; list-style: none; }
+.xoxo li h3 { font-style: normal; }
+
+.content .navigation { height: auto; margin-bottom: 20px; line-height: 2; }
+.post { background-color: #fff; padding: 0 0 35px; margin: 20px 0 20px 0; border-radius: 10px; }
+
+#footer { margin-top: 0 !important; }
+#primary li { list-style-type: none !important; }
+.col-md-4 li { list-style-type: none !important; }
+.blog-promo {
+	 border: 0 !important;
+    background-color: #333;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border-radius: 3px;
+    background-image: url('https://www.wolinweb.com/images/mobile-ready-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+	padding: 30px;
+	border-radius: 0;
+	background-position: 45%;
+
+}
+.blog-promo h3 {
+	color: #fff;
+}
+.siderbar {
+	background-color: #fff;
+	border-radius: 10px;
+	margin-top: 20px;
+	float: left;
+
+}
+.siderbar h2, h3, h4 { padding: 0; }
+
+.siderbar #recent-posts-2 { 
+	padding: 30px;
+    margin-top: -50px; 
+}
+#recent-posts-2 h3 { text-align: center; }
+#recent-posts-2 a {
+	color: #59ba41;
+}
+.ecae-image a, .ecae-image img { border-radius: 10px 10px 0 0; width: 100%;  }
+
+.nav-previous a, .nav-next a { color: #fff; }
+.nav-previous { 
+    background-color: #59ba41;
+    padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+.nav-next {
+	background-color: #114f8a;
+    padding: 10px;
+    float: right;
+    border-radius: 10px;
+	
+}
+
+@media (max-width:767px){
+
+	img.alignright, img.alignleft { float: none; display: block; margin: 10px auto; }
+
+	.h2.entry-title a {}
+
+}
+
+.input_blog { background: none; color: #333; }
+.alert-success ~ #quick-contact-form {
+    display: none;
+}
+.alert-success {
+    background-color: #ffffff;
+    border-color: #d6e9c6;
+    color: #3c763d;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    transition-delay: all 0.3s ease;
+    transition-duration: all 0.3s ease;
+}
